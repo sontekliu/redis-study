@@ -1,1 +1,7 @@
 .idea/
+.redis-study.iml
+target/
+
+.settings/
+.project
+.classpath
