@@ -10,3 +10,4 @@
 9. Redis 通讯协议
 10. Redis 快速的原因
 11. Redis Lua 脚本
+12. Redis 持久化
